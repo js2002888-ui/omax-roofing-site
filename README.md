@@ -1,0 +1,1 @@
+Static site for Omax Roofing. Deploy on Vercel by importing this repo. DNS: A @ -> 76.76.21.21, CNAME www -> cname.vercel-dns.com
